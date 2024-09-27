@@ -1,0 +1,29 @@
+/* MY COLOR PALETTE
+        Color 1 - #070707
+        Color 2 - #40434e
+        Color 3 - #c297b8
+        Color 4 - #fdcff3
+        Color 5 - #de89be
+        https://coolors.co/070707-40434e-c297b8-fdcff3-de89be
+        https://fonts.google.com/?query=san+s&stroke=Sans+Serif --> */
+
+body {
+        background-color: #c297b8;
+        text-align: center;
+}
+
+button {
+        background-color: #070707;
+        color: #ffffff;
+        font-family: "Source Sans 3", sans-serif;
+        font-weight: 300;
+        width: 200;
+        padding: 20px;
+        margin-top: 50px;
+        border: none;
+        border-radius: 50px;
+}
+
+button:hover {
+        background-color: #40434e;
+}
