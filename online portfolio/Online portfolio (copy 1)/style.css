@@ -1,0 +1,128 @@
+img {
+    width: 80%;
+    border: solid;
+    border-radius: 33px;
+    border-width: 3px;
+    color: white;
+}
+
+#navigation {
+    text-align: center;
+
+}
+#topper {
+    text-align: center;
+}
+
+Body {
+    background-color: #2b2b2b;
+}
+
+button {
+    background-color: #feb2a6;
+    border: none;
+    padding: 15px 15px;
+    border-radius: 40px;
+    font-family: "Times New Roman ";
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+#ed {
+    color: #feb2a6;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.UMD {
+    color: white;
+    font-size: 16px;
+    font-family: times;
+    margin-left: 100px;
+}
+
+.p2h1 {
+    color: #feb2a6;
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+.eoh2 {
+    color: #feb2a6;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+p {
+    color: white;
+    font-family: times;
+    font-size: 15px;
+}
+
+.p2 {
+    color: white;
+    font-family: times;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.line3 {
+    color: white;
+    border-width: 5px;
+}
+
+#2026 {
+    color: #feb2a6;
+    font-size: 50px;
+}
+
+#MMJ {
+    color: white;
+    font-size: 18px;
+    font-family: "Times New Rom";
+}
+
+#navigation a {
+    color: #feb2a6;
+    text-decoration: none;
+}
+
+.line1 {
+    color: #ffffff;
+    margin-right: 70px;
+    margin-left: 70px;
+    width: 90%;
+    border-width: 5px;
+}
+
+#MadelineSeck {
+    color: #feb2a6;
+    font-size: 30px;
+}
+
+.ex1 {
+    color: #feb2a6;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.exh2 {
+    color: white;
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.ul1 {
+    color: white;
+    font-size: 13px;
+    margin-left: 100px;
+    font-family: "times";
+}
