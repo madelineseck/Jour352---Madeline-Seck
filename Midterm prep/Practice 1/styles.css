@@ -1,0 +1,39 @@
+@media {
+    #headshot {
+        width: 300px;
+        float: none;
+        margin-right: 20px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    #contactme {
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    #contactme a:hover {
+        color: red;
+    }
+
+    #info {
+        width: 100%;
+        margin: auto;
+    }
+    
+    #footer {position: fixed; 
+    bottom: 0;
+    background-color: pink; padding: 10px 10x 10x 10px}
+}
+@media (min-width: 576px) {
+    #info {
+        width: 576px;
+    }
+
+    #headshot {
+        float: left;
+    }
+}
